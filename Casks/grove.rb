@@ -1,5 +1,4 @@
-# Template for the cask in atharvdesai/homebrew-grove. The release workflow
-# fills in 0.1.0 and 129bff1592a42bdf11823150a7068b0181469fee42e0045a9972914b59bbfd82 and pushes it there; install with
+# Cask for Grove. Install with
 #
 #   brew install --cask atharvdesai/grove/grove
 cask "grove" do
